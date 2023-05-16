@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=2
+Project0=..\Aula004\aula004.mcppi
+Project1=..\Aula004\aula006.mcppi
+Project2=..\Aula005\Aula006.mcppi
+[ActiveProject]
+Index=1
